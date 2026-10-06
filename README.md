@@ -4,8 +4,7 @@ The Espobase client for Dart and Flutter: your project's database, App Authentic
 Storage and edge functions. Pure Dart (works in Flutter apps on iOS, Android and the web, and in server-side Dart). Depends
 only on `http` and `crypto`. Requires Dart 3.
 
-> Status: version 0.1.0, not published to pub.dev yet (`publish_to: none`; the owner publishes it). Realtime
-> (WebSockets) is not in this version: use the REST API, or the JavaScript client for realtime.
+> Version 0.1.0. Realtime (WebSockets) is not in this version: use the REST API, or the JavaScript client for realtime.
 
 ## Install
 
